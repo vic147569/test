@@ -18,7 +18,7 @@ export function Index() {
   return (
     <>
       <div>首頁 路徑是 /</div>
-      <img src={`${import.meta.env.VITE_BASENAME}/1.jpg`} alt='' />
+      <img src={`${import.meta.env.VITE_BASENAME}/1.png`} alt='' />
     </>
   )
 }
@@ -26,7 +26,7 @@ export function Page2() {
   return (
     <>
       <div>Page2 路徑是 Page2</div>
-      <img src={`${import.meta.env.VITE_BASENAME}/2.jpg`} alt='' />
+      <img src={`${import.meta.env.VITE_BASENAME}/2.png`} alt='' />
     </>
   )
 }
