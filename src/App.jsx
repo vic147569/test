@@ -34,7 +34,7 @@ export function Page2() {
 function App() {
   return (
     <>
-      <BrowserRouter basename='/test-vite-github-pages'>
+      <BrowserRouter basename='/test'>
         <nav>
           <ul>
             <li>
